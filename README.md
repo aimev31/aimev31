@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @aimev31
-- 👀 Estoy interesado en descubrir nuevas cosas sobre html, css y js
-- 🌱 Actualmente estoy estudiando JavaScript, recien empezando
-- 💞️ Me gustaría colaborar con programadores que recien estan empezando, como  yo
-- 😄 Pronouns: he/him
